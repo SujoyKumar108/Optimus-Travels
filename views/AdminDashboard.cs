@@ -32,14 +32,42 @@ namespace Optimus_Travels.views
                 this.Owner.Hide();
             }
         }
-        //wrigowrg
-        //gfugufgoigw
-        //iggbwuogouwr
-        //ilwrfgfouwgo
         private void button5_Click(object sender, EventArgs e)
         {
             Cookie.ClearCookie();
-            this.Close();
+            this.Hide();
+            Login lg = new Login();
+            lg.Show();
+        }
+
+        private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            AdminManageUsers am = new AdminManageUsers();
+            am.Show(owner: this);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            AdminManageHotels amh = new AdminManageHotels();
+            amh.Show(owner: this);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            AdminManagePackages amp = new AdminManagePackages();
+            amp.Show(owner: this);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            AdminManagePackages ame = new AdminManagePackages();
+            ame.Show(owner: this);
+
         }
     }
 }

@@ -4,11 +4,15 @@ D:\C#\Optimus Travels\bin\Debug\Optimus Travels.pdb
 D:\C#\Optimus Travels\obj\Debug\Optimus Travels.csproj.AssemblyReference.cache
 D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.Properties.Resources.resources
 D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.views.AdminDashboard.resources
+D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.views.AdminManageUsers.resources
 D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.views.Login.resources
 D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.views.Register.resources
+D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.views.UserDashboard.resources
 D:\C#\Optimus Travels\obj\Debug\Optimus Travels.csproj.GenerateResource.cache
 D:\C#\Optimus Travels\obj\Debug\Optimus Travels.csproj.CoreCompileInputs.cache
 D:\C#\Optimus Travels\obj\Debug\Optimus Travels.exe
 D:\C#\Optimus Travels\obj\Debug\Optimus Travels.pdb
 D:\C#\Optimus Travels\obj\Debug\Optimus Travels.exe.config
-D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.views.UserDashboard.resources
+D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.views.AdminManageHotels.resources
+D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.views.AdminManagePackages.resources
+D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.views.AdminManageEmployees.resources

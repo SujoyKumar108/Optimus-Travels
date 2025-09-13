@@ -58,6 +58,30 @@
     <Compile Include="views\AdminDashboard.Designer.cs">
       <DependentUpon>AdminDashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="views\AdminManageEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\AdminManageEmployees.Designer.cs">
+      <DependentUpon>AdminManageEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\AdminManageHotels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\AdminManageHotels.Designer.cs">
+      <DependentUpon>AdminManageHotels.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\AdminManagePackages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\AdminManagePackages.Designer.cs">
+      <DependentUpon>AdminManagePackages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\AdminManageUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\AdminManageUsers.Designer.cs">
+      <DependentUpon>AdminManageUsers.cs</DependentUpon>
+    </Compile>
     <Compile Include="views\EmployeeDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,6 +117,18 @@
     </Compile>
     <EmbeddedResource Include="views\AdminDashboard.resx">
       <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\AdminManageEmployees.resx">
+      <DependentUpon>AdminManageEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\AdminManageHotels.resx">
+      <DependentUpon>AdminManageHotels.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\AdminManagePackages.resx">
+      <DependentUpon>AdminManagePackages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\AdminManageUsers.resx">
+      <DependentUpon>AdminManageUsers.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="views\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
