@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Optimus Travels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|d:\\c#\\optimus travels\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|d:\\c#\\optimus travels\\views\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\controller\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:controller\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|d:\\c#\\optimus travels\\views\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|d:\\c#\\optimus travels\\views\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\sqldbdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:sqldbdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDashboard.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "views\\UserDashboard.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\UserDashboard.cs",
+              "RelativeToolTip": "views\\UserDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T05:08:11.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "views\\Register.Designer.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\Register.Designer.cs",
+              "RelativeToolTip": "views\\Register.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowMAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:46:26.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "views\\Login.Designer.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\Login.Designer.cs",
+              "RelativeToolTip": "views\\Login.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAowIAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:27:42.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\Login.cs",
+              "RelativeDocumentMoniker": "views\\Login.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\Login.cs",
+              "RelativeToolTip": "views\\Login.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowD0AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:25:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\Register.cs",
+              "RelativeDocumentMoniker": "views\\Register.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\Register.cs [Design]",
+              "RelativeToolTip": "views\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:22:46.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "views\\AdminDashboard.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\AdminDashboard.cs",
+              "RelativeToolTip": "views\\AdminDashboard.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:21:04.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:56:54.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SqlDbDataAccess.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\SqlDbDataAccess.cs",
+              "RelativeDocumentMoniker": "SqlDbDataAccess.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\SqlDbDataAccess.cs",
+              "RelativeToolTip": "SqlDbDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:36:21.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\controller\\RegisterController.cs",
+              "RelativeDocumentMoniker": "controller\\RegisterController.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\controller\\RegisterController.cs",
+              "RelativeToolTip": "controller\\RegisterController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:56:04.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\Register.cs",
+              "RelativeDocumentMoniker": "views\\Register.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\Register.cs",
+              "RelativeToolTip": "views\\Register.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:36:59.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\EmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "views\\EmployeeDashboard.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\EmployeeDashboard.cs [Design]",
+              "RelativeToolTip": "views\\EmployeeDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:54:10.419Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cookie.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\Cookie.cs",
+              "RelativeDocumentMoniker": "Cookie.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\Cookie.cs",
+              "RelativeToolTip": "Cookie.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:43:29.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\controller\\LoginController.cs",
+              "RelativeDocumentMoniker": "controller\\LoginController.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\controller\\LoginController.cs",
+              "RelativeToolTip": "controller\\LoginController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:39:09.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "views\\UserDashboard.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\UserDashboard.cs [Design]",
+              "RelativeToolTip": "views\\UserDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:23:21.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "views\\AdminDashboard.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "views\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:23:03.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\Login.cs",
+              "RelativeDocumentMoniker": "views\\Login.cs",
+              "ToolTip": "D:\\C#\\Optimus Travels\\views\\Login.cs [Design]",
+              "RelativeToolTip": "views\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:21:49.33Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

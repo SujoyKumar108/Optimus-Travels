@@ -1,0 +1,68 @@
+﻿using Optimus_Travels.controller;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Optimus_Travels.views
+{
+    public partial class Login : Form
+    {
+        public Login()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string email = textBox1.Text;
+            string password = textBox2.Text;
+
+            if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(password))
+            {
+                MessageBox.Show("Fill all the Fields.");
+            }
+            
+            if (LoginController.login(email, password))
+            {
+            
+                MessageBox.Show("Log in Successfull");
+                if(Cookie.role == "user")
+                {
+                MessageBox.Show("user");
+                    UserDashboard u = new UserDashboard();
+                    u.Show();
+                    this.DestroyHandle();
+                }
+                else if (Cookie.role == "admin")
+                {
+                MessageBox.Show("admin");
+                    AdminDashboard a = new AdminDashboard();
+                    a.Show();
+                    this.DestroyHandle();
+                }
+                else if (Cookie.role == "employee")
+                {
+                MessageBox.Show("employee");
+                    EmployeeDashboard ed = new EmployeeDashboard();
+                    ed.Show();
+                    this.DestroyHandle();
+                }
+                else
+                {
+                    MessageBox.Show("Wrong Role.");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Wrong User.");
+            }
+        }
+    }
+}
