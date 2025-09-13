@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "D:\\C#\\Optimus Travels\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|d:\\c#\\optimus travels\\views\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|d:\\c#\\optimus travels\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|d:\\c#\\optimus travels\\views\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,7 +43,7 @@
       "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|d:\\c#\\optimus travels\\views\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,7 +55,7 @@
       "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|d:\\c#\\optimus travels\\views\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|D:\\C#\\Optimus Travels\\views\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2702A905-484A-4BD6-8180-9D688A2DF3DA}|Optimus Travels.csproj|solutionrelative:views\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -74,11 +74,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -90,8 +94,7 @@
               "RelativeToolTip": "views\\UserDashboard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T05:08:11.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T05:08:11.98Z"
             },
             {
               "$type": "Document",
@@ -103,8 +106,7 @@
               "RelativeToolTip": "views\\Register.Designer.cs",
               "ViewState": "AgIAAKsAAAAAAAAAAAAowMAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T04:46:26.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T04:46:26.304Z"
             },
             {
               "$type": "Document",
@@ -116,8 +118,7 @@
               "RelativeToolTip": "views\\Login.Designer.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAowIAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T04:27:42.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T04:27:42.905Z"
             },
             {
               "$type": "Document",
@@ -129,8 +130,7 @@
               "RelativeToolTip": "views\\Login.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowD0AAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:25:05.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T10:25:05.643Z"
             },
             {
               "$type": "Document",
@@ -141,8 +141,7 @@
               "ToolTip": "D:\\C#\\Optimus Travels\\views\\Register.cs [Design]",
               "RelativeToolTip": "views\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:22:46.788Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-09T10:22:46.788Z"
             },
             {
               "$type": "Document",
@@ -152,7 +151,7 @@
               "RelativeDocumentMoniker": "views\\AdminDashboard.cs",
               "ToolTip": "D:\\C#\\Optimus Travels\\views\\AdminDashboard.cs",
               "RelativeToolTip": "views\\AdminDashboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vyIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T11:21:04.704Z",
               "EditorCaption": ""
@@ -191,8 +190,7 @@
               "RelativeToolTip": "controller\\RegisterController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:56:04.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T11:56:04.649Z"
             },
             {
               "$type": "Document",
@@ -204,8 +202,7 @@
               "RelativeToolTip": "views\\Register.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAvwDQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:36:59.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T11:36:59.711Z"
             },
             {
               "$type": "Document",
@@ -216,12 +213,11 @@
               "ToolTip": "D:\\C#\\Optimus Travels\\views\\EmployeeDashboard.cs [Design]",
               "RelativeToolTip": "views\\EmployeeDashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:54:10.419Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-09T10:54:10.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Cookie.cs",
               "DocumentMoniker": "D:\\C#\\Optimus Travels\\Cookie.cs",
               "RelativeDocumentMoniker": "Cookie.cs",
@@ -229,8 +225,7 @@
               "RelativeToolTip": "Cookie.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:43:29.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T10:43:29.668Z"
             },
             {
               "$type": "Document",
@@ -242,8 +237,7 @@
               "RelativeToolTip": "controller\\LoginController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:39:09.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T10:39:09.609Z"
             },
             {
               "$type": "Document",
@@ -254,12 +248,11 @@
               "ToolTip": "D:\\C#\\Optimus Travels\\views\\UserDashboard.cs [Design]",
               "RelativeToolTip": "views\\UserDashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:23:21.913Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-09T10:23:21.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AdminDashboard.cs [Design]",
               "DocumentMoniker": "D:\\C#\\Optimus Travels\\views\\AdminDashboard.cs",
               "RelativeDocumentMoniker": "views\\AdminDashboard.cs",
@@ -278,8 +271,7 @@
               "ToolTip": "D:\\C#\\Optimus Travels\\views\\Login.cs [Design]",
               "RelativeToolTip": "views\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:21:49.33Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-09T10:21:49.33Z"
             }
           ]
         }

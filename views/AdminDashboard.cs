@@ -32,7 +32,10 @@ namespace Optimus_Travels.views
                 this.Owner.Hide();
             }
         }
-
+        //wrigowrg
+        //gfugufgoigw
+        //iggbwuogouwr
+        //ilwrfgfouwgo
         private void button5_Click(object sender, EventArgs e)
         {
             Cookie.ClearCookie();
