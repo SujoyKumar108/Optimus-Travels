@@ -59,6 +59,18 @@
     <Compile Include="views\AdminDashboard.Designer.cs">
       <DependentUpon>AdminDashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="views\UserDashboardBookPackages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\UserDashboardBookPackages.Designer.cs">
+      <DependentUpon>UserDashboardBookPackages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\UserDashboardBookHotel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\UserDashboardBookHotel.Designer.cs">
+      <DependentUpon>UserDashboardBookHotel.cs</DependentUpon>
+    </Compile>
     <Compile Include="views\EmployeeDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +95,18 @@
     <Compile Include="views\UserDashboard.Designer.cs">
       <DependentUpon>UserDashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="views\UserDashboardBookHotelBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\UserDashboardBookHotelBook.Designer.cs">
+      <DependentUpon>UserDashboardBookHotelBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\UserDashboardShowProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\UserDashboardShowProfile.Designer.cs">
+      <DependentUpon>UserDashboardShowProfile.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -91,9 +115,13 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="views\AdminDashboard.resx">
       <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\UserDashboardBookHotel.resx">
+      <DependentUpon>UserDashboardBookHotel.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="views\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
@@ -103,6 +131,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="views\UserDashboard.resx">
       <DependentUpon>UserDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\UserDashboardBookHotelBook.resx">
+      <DependentUpon>UserDashboardBookHotelBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\UserDashboardBookPackages.resx">
+      <DependentUpon>UserDashboardBookPackages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\UserDashboardShowProfile.resx">
+      <DependentUpon>UserDashboardShowProfile.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
