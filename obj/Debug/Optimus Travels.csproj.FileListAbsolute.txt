@@ -12,3 +12,6 @@ D:\C#\Optimus Travels\obj\Debug\Optimus Travels.exe
 D:\C#\Optimus Travels\obj\Debug\Optimus Travels.pdb
 D:\C#\Optimus Travels\obj\Debug\Optimus Travels.exe.config
 D:\C#\Optimus Travels\obj\Debug\Optimus_Travels.views.UserDashboard.resources
+F:\AIUB\SEM 6\C#\2.FINAL\Optimus-Travels\bin\Debug\Optimus Travels.exe.config
+F:\AIUB\SEM 6\C#\2.FINAL\Optimus-Travels\obj\Debug\Optimus Travels.exe
+F:\AIUB\SEM 6\C#\2.FINAL\Optimus-Travels\obj\Debug\Optimus Travels.pdb
