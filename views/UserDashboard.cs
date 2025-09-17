@@ -32,5 +32,35 @@ namespace Optimus_Travels.views
                 this.Owner.Show();
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+                UserDashboardBookHotel bh = new UserDashboardBookHotel();
+                bh.Show();
+                this.Hide();
+            
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            UserDashboardBookPackages udbp = new UserDashboardBookPackages();
+            udbp.Show();
+            this.Hide();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            UserDashboardShowProfile udsp = new UserDashboardShowProfile();
+            udsp.Show();
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Login l = new Login();
+            l.Show();
+            this.Hide();
+        }
     }
 }

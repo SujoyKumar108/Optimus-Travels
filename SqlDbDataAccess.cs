@@ -10,7 +10,7 @@ namespace Optimus_Travels
     public class SqlDbDataAccess
     {
         //server 2022
-        private const string connectionString = @"Data Source=DESKTOP-9D6P8DL\SQLEXPRESS; Initial Catalog=optimus; Trusted_Connection=True";
+        private const string connectionString = @"Data Source=JIMIBOYYY\SQLEXPRESS; Initial Catalog=optimus; Trusted_Connection=True";
 
         //server 2014 and server 2018
         //private const string connectionString = @"Data Source= DESKTOP-5IIMGTU\SQLEXPRESS; Initial Catalog=Product Management System; Integrated Security=True";

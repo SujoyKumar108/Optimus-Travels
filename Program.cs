@@ -9,9 +9,8 @@ namespace Optimus_Travels
 {
     internal static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        //ugvuyvu
+        //uhy
         [STAThread]
         static void Main()
         {
